@@ -1,0 +1,20 @@
+{
+  "name": "poll-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "http": "^0.0.1-security",
+    "kafkajs": "^2.2.4",
+    "pg": "^8.13.0",
+    "poll-system": "file:",
+    "ws": "^8.18.0"
+  }
+}
